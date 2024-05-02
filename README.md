@@ -53,7 +53,7 @@ Before you begin, ensure you have the following installed on your system:
    - Provide the necessary input such as URL, start time, and end time as prompted.
 
 ## Demo:
-![Demo Video](VideoTool.mkv)
+![Demo Video](output.mp4)
 
 
 
