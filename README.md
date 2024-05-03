@@ -1,6 +1,3 @@
-Certainly! Here's a README file to help users initialize and set up the Go project using the `main.go` file you provided:
-
----
 
 # Go Project Setup Guide
 
